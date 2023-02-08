@@ -1,16 +1,18 @@
-### Hi there 👋
+## Olá, pessoal!😘 Meu nome é Fabrícia Souza, tenho 28 anos e atualmente estudo desenvolvimento e análise de dados.👩🏾‍💻 Nasci e fui criada em Minas Gerais🧀, mas atualmente moro em Lisboa, PT.❤️
 
-<!--
-**vitroda/vitroda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img align="left" alt="Rafa-pic" height="200" style="border-radius:10px;" src="https://img.freepik.com/vetores-gratis/menina-feliz-com-borboleta_1450-103.jpg?w=740&t=st=1675815308~exp=1675815908~hmac=8b1ce0b50ea0f19c235d2da1c50c6ad22fd456fa0f5ebe10d3b123d3f2d7eb4e">
+  <img align="left" alt="Rafa-pic" height="200" style="border-radius:15px;" src="https://i.pinimg.com/originals/e3/0b/48/e30b4852721762c59e698152dc004e27.jpg">
+</div>
+Contato:
+<div>
+   <footer>
+     <a href="https://www.instagram.com/rafa_vitroda/" target="_blank"><img align="right" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" target="_blank" height="30" width="40" </a> 
+    <a href = "mailto:fabriciasouza.pt@gmail.com"><img align="right" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alvo ="_blank" height="30" width="40"></a>
+    <a href="https://www.linkedin.com/in/fabr%C3%ADcia-rafaella-de-souza/" target="_blank"><img align="right" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" target="_blank" height="30" width="40"></a>
+     <a href="https://wa.me/+351925159045" target="_blank"><img align="right" src="https://cdn-icons-png.flaticon.com/512/5968/5968841.png"height="30" width="40"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+</footer>
+     </div>
