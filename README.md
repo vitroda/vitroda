@@ -1,6 +1,6 @@
 ## Olá, pessoal!😘 Meu nome é Fabrícia Souza
 
-Tenho 28 anos e atualmente estudo para ser desenvolvedora Front-end.👩🏾‍💻 Nasci e fui criada em Minas Gerais🧀, mas atualmente moro em Lisboa, PT.❤️
+Tenho 29 anos e atualmente estudo para ser desenvolvedora Front-end.👩🏾‍💻 Nasci e fui criada em Minas Gerais🧀, mas atualmente moro em Lisboa, PT.❤️
 
 
 <div style="display: inline_block"><br>
