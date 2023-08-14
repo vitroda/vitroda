@@ -1,6 +1,20 @@
-## Olá, pessoal!😘 Meu nome é Fabrícia Souza
+## Olá! Sou Fabrícia Souza, uma entusiasta da tecnologia e apaixonada por programação! 👩‍💻
 
-Tenho 29 anos e atualmente estudo para ser desenvolvedora Front-end.👩🏾‍💻 Nasci e fui criada em Minas Gerais🧀, mas atualmente moro em Lisboa, PT.❤️
+Meu nome é Fabrícia, tenho 29 anos e sou natural de Ribeirão das Neves, Minas Gerais, Brasil. Atualmente, estou vivendo em Lisboa, Portugal, buscando novas oportunidades e desafios nesta cidade tão vibrante e multicultural.
+
+Sou formada em Tecnologia em Processos Gerenciais pelo IFMG, o que me proporcionou uma base sólida em gestão e estratégias empresariais. No entanto, minha paixão pelo mundo da tecnologia e minha curiosidade inesgotável me levaram a mergulhar no universo da programação.
+
+Atualmente, estou ampliando meus conhecimentos em programação através da Alura, uma plataforma de ensino que tem sido uma fonte valiosa para meu crescimento profissional. Além disso, estou me especializando em Desenvolvimento Web Full Stack pela PUC MINAS, onde estou aprimorando minhas habilidades em front-end e back-end para criar soluções completas e inovadoras.
+
+Como uma pessoa do signo de Gêmeos, sou conhecida pela minha versatilidade, adaptabilidade e pela minha facilidade em me comunicar e trabalhar em equipe. Acredito que a diversidade de perspectivas é fundamental para promover a inovação e encontrar soluções criativas para os desafios que enfrentamos.
+
+Embora seja dedicada ao meu desenvolvimento profissional, também valorizo meu tempo livre para explorar novos lugares, culturas e conhecer pessoas interessantes. Acredito que equilibrar trabalho e lazer é essencial para manter o bem-estar e a produtividade.
+
+Neste momento da minha jornada, estou aberta a novas oportunidades e desafios, buscando me conectar com profissionais e empresas que valorizem a diversidade, a inclusão e que estejam comprometidos em criar um ambiente de trabalho colaborativo e enriquecedor.
+
+Se você está interessado(a) em conectar-se ou discutir projetos relacionados à programação, tecnologia ou desenvolvimento web, sinta-se à vontade para entrar em contato. Vamos juntos construir um futuro mais inovador e inclusivo! 🚀
+
+#DesenvolvimentoWeb #Programação #Tecnologia #FrontEnd #BackEnd #FullStack #Inovação #Diversidade #LinkedIn
 
 
 <div style="display: inline_block"><br>
