@@ -18,7 +18,7 @@ Se você está interessado(a) em conectar-se ou discutir projetos relacionados �
 
 
 <div style="display: inline_block"><br>
-  <img align="left" alt="Rafa-pic" height="200" style="border-radius:10px;" src="rafinha.png">
+  <img align="left" alt="Rafa-pic" height="200" style="border-radius:10px;" src: "https://github.com/vitroda/vitroda/assets/124215213/0dd4c9ce-11e3-40a7-aac6-851ad86982ed">
   
 </div>
 
@@ -35,7 +35,7 @@ Se você está interessado(a) em conectar-se ou discutir projetos relacionados �
 
 ##
 
-<div>![rafinha](https://github.com/vitroda/vitroda/assets/124215213/d354efe2-a1aa-4c48-92c9-4049f9a65101)
+<div>
 
     <a href="https://www.instagram.com/rafa_vitroda/" target="_blank"><img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" target="_blank" height="30" width="40" </a> 
     <a href = "mailto:fabriciasouza.pt@gmail.com"><img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alvo ="_blank" height="30" width="40"></a>
