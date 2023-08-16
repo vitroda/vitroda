@@ -1,5 +1,4 @@
-## Olá! Sou Fabrícia Souza, 
-#uma entusiasta da tecnologia e apaixonada por programação! 👩‍💻
+## Olá! Sou Fabrícia Souza💖 <br> uma entusiasta da tecnologia <br>e apaixonada💕 por programação! 👩‍💻
 
 Meu nome é Fabrícia, tenho 29 anos e sou natural de Ribeirão das Neves, Minas Gerais, Brasil. Atualmente, estou vivendo em Lisboa, Portugal, buscando novas oportunidades e desafios nesta cidade tão vibrante e multicultural.
 
