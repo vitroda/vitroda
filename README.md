@@ -14,7 +14,18 @@ Neste momento da minha jornada, estou aberta a novas oportunidades e desafios, b
 
 Se você está interessado(a) em conectar-se ou discutir projetos relacionados à programação, tecnologia ou desenvolvimento web, sinta-se à vontade para entrar em contato. Vamos juntos construir um futuro mais inovador e inclusivo! 🚀
 
-#DesenvolvimentoWeb #Programação #Tecnologia #FrontEnd #BackEnd #FullStack #Inovação #Diversidade #LinkedIn
+[![DesenvolvimentoWeb](https://img.shields.io/badge/DesenvolvimentoWeb-%23Programação-%2300FF00)](https://linkedin.com/seuperfil)
+[![Programação](https://img.shields.io/badge/Programação-%23Programação-%2300FF00)](https://linkedin.com/seuperfil)
+[![Tecnologia](https://img.shields.io/badge/Tecnologia-%23Tecnologia-%2300FF00)](https://linkedin.com/seuperfil)
+[![FrontEnd](https://img.shields.io/badge/FrontEnd-%23FrontEnd-%2300FF00)](https://linkedin.com/seuperfil)
+[![BackEnd](https://img.shields.io/badge/BackEnd-%23BackEnd-%2300FF00)](https://linkedin.com/seuperfil)
+[![FullStack](https://img.shields.io/badge/FullStack-%23FullStack-%2300FF00)](https://linkedin.com/seuperfil)
+[![Inovação](https://img.shields.io/badge/Inovação-%23Inovação-%2300FF00)](https://linkedin.com/seuperfil)
+[![Diversidade](https://img.shields.io/badge/Diversidade-%23Diversidade-%2300FF00)](https://linkedin.com/seuperfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23LinkedIn-%2300FF00)](https://linkedin.com/seuperfil)
+
+
+
 
 
 <div style="display: inline_block"><br>
