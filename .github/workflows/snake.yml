@@ -1,0 +1,28 @@
+name: Snake Game
+
+on:
+  schedule:
+    # Atualize a cada dia às 00:00 UTC
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'  # Use a versão correta do Python para o seu jogo
+
+      - name: Install Dependencies
+        run: |
+          pip install pygame  # Instale quaisquer dependências necessárias para o seu jogo
+
+      - name: Run Snake Game
+        run: |
+          python snake.py  # Substitua pelo comando real para executar o jogo
+
