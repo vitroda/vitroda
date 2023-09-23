@@ -10,6 +10,7 @@ on:
   # Permite executar na lista de Actions (utilizado para testes de build).
   workflow_dispatch:
 
+
 # Regras
 jobs:
   build:
