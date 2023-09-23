@@ -17,10 +17,13 @@ jobs:
     steps:
 
       # Define explicitamente a versão do Node.js para 16.x
-      - name: Setup Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: 16.x
+      - name: Use Node.js 16.x
+        run: |
+          curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+          export NVM_DIR="$HOME/.nvm"
+          [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # Isso carrega o nvm
+          nvm install 16
+          node --version
 
       # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
