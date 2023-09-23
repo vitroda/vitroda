@@ -17,7 +17,7 @@
 CLIQUE NA IMAGEM ABAIXO E VENHA JOGAR O JOGO DA VELHA! CHAME UM AMIGO PARA JOGAR COM VOCÊ 👵🏾
 
 <p align="center">
-    <a href="https://oldgame-beryl.vercel.app/" target="_blank">
+    <a href="https://oldgame-beryl.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="https://store-images.s-microsoft.com/image/apps.51027.9007199266250076.9b89884f-348b-436b-aa04-a72ef0350004.65e2d419-13ef-4217-9db4-be954e2bc2b2?mode=scale&q=90&h=1080&w=1920" alt="Jogue o Jogo da Velha" style="border-radius: 10px; width: 500px; height: auto;">
     </a>
 </p>
