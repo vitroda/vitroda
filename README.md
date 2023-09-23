@@ -14,26 +14,9 @@
 
 📫 Vamos construir um futuro mais inovador e inclusivo juntos! Entre em contato. 😊
 
-CLIQUE NA IMAGEM ABAIXO E VENHA JOGAR O JOGO DA VELHA! CHAME UM AMIGO PARA JOGAR COM VOCÊ 👵🏾
 
-<p align="center">
-    <a href="https://oldgame-beryl.vercel.app/" target="_blank" rel="noopener noreferrer">
-        <img src="https://store-images.s-microsoft.com/image/apps.51027.9007199266250076.9b89884f-348b-436b-aa04-a72ef0350004.65e2d419-13ef-4217-9db4-be954e2bc2b2?mode=scale&q=90&h=1080&w=1920" alt="Jogue o Jogo da Velha" style="border-radius: 10px; width: 500px; height: auto;">
-    </a>
-</p>
-
-
-
-
-
-
-
-
-
-<div style="display: inline_block"><br>
   <img align="left" alt="Rafa-pic" height="200" style="border-radius:10px;" src="https://github.com/vitroda/vitroda/assets/124215213/0dd4c9ce-11e3-40a7-aac6-851ad86982ed">
   
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -54,6 +37,28 @@ CLIQUE NA IMAGEM ABAIXO E VENHA JOGAR O JOGO DA VELHA! CHAME UM AMIGO PARA JOGAR
   <a href="https://www.linkedin.com/in/fabr%C3%ADcia-rafaella-de-souza/" target="_blank"><img align="left" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" target="_blank" height="30" width="40"></a>
   <a href="https://wa.me/+351925159045" target="_blank"><img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968841.png"height="30" width="40"></a>
 </div>
+  
+   
+ <br> 
+ <br>
+ <br> 
+ <br>
+ 
+ ## CLIQUE NA IMAGEM ABAIXO E VENHA JOGAR O JOGO DA VELHA QUE EU CRIEI ESPECIALMENTE PARA VOCÊ!
+ ### CHAME UM AMIGO PARA JOGAR! 👵🏾
+ <p align="center">
+        <a href="https://oldgame-beryl.vercel.app/">
+        <img src="https://store-images.s-microsoft.com/image/apps.51027.9007199266250076.9b89884f-348b-436b-aa04-a72ef0350004.65e2d419-13ef-4217-9db4-be954e2bc2b2?mode=scale&q=90&h=1080&w=1920" alt="Jogue o Jogo da Velha" style="border-radius: 10px; width: 300px; height: auto;">
+    </a>
+    </p>
+  
+
+
+
+
+
+
+
 
     
 
