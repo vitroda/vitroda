@@ -2,8 +2,9 @@ name: Snake Game
 
 on:
   schedule:
-    # Atualize a cada dia às 00:00 UTC
-    - cron: "0 0 * * *"
+  # Atualize todos os dias às 1:27 da manhã UTC
+  - cron: "27 1 * * *"
+
 
 jobs:
   build:
