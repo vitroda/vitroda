@@ -1,18 +1,28 @@
-## Olá! Sou Fabrícia Souza💖 <br> uma entusiasta da tecnologia <br>e apaixonada💕 por programação! 👩‍💻
+# Olá! Eu sou a Fabrícia Souza 👋
 
-Meu nome é Fabrícia, tenho 29 anos e sou natural de Ribeirão das Neves, Minas Gerais, Brasil. Atualmente, estou vivendo em Lisboa, Portugal, buscando novas oportunidades e desafios nesta cidade tão vibrante e multicultural.
+🌟 Entusiasta da tecnologia e apaixonada por programação! 👩‍💻
 
-Sou formada em Tecnologia em Processos Gerenciais pelo IFMG, o que me proporcionou uma base sólida em gestão e estratégias empresariais. No entanto, minha paixão pelo mundo da tecnologia e minha curiosidade inesgotável me levaram a mergulhar no universo da programação.
+💼 Atualmente em Lisboa, Portugal, em busca de novos desafios neste ambiente multicultural.
 
-Atualmente, estou ampliando meus conhecimentos em programação através da Alura, uma plataforma de ensino que tem sido uma fonte valiosa para meu crescimento profissional. Além disso, estou me especializando em Desenvolvimento Web Full Stack pela PUC MINAS, onde estou aprimorando minhas habilidades em front-end e back-end para criar soluções completas e inovadoras.
+📚 Estou aprimorando minhas habilidades em programação através da Alura e me especializando em Desenvolvimento Web Full Stack pela PUC MINAS.
 
-Como uma pessoa do signo de Gêmeos, sou conhecida pela minha versatilidade, adaptabilidade e pela minha facilidade em me comunicar e trabalhar em equipe. Acredito que a diversidade de perspectivas é fundamental para promover a inovação e encontrar soluções criativas para os desafios que enfrentamos.
+🌍 Acredito na diversidade de perspectivas para promover a inovação.
 
-Embora seja dedicada ao meu desenvolvimento profissional, também valorizo meu tempo livre para explorar novos lugares, culturas e conhecer pessoas interessantes. Acredito que equilibrar trabalho e lazer é essencial para manter o bem-estar e a produtividade.
+🌴 Além do trabalho, gosto de explorar novos lugares, culturas e conhecer pessoas interessantes.
 
-Neste momento da minha jornada, estou aberta a novas oportunidades e desafios, buscando me conectar com profissionais e empresas que valorizem a diversidade, a inclusão e que estejam comprometidos em criar um ambiente de trabalho colaborativo e enriquecedor.
+🚀 Aberta a novas oportunidades e desafios, especialmente na área de programação e tecnologia.
 
-Se você está interessado(a) em conectar-se ou discutir projetos relacionados à programação, tecnologia ou desenvolvimento web, sinta-se à vontade para entrar em contato. Vamos juntos construir um futuro mais inovador e inclusivo! 🚀
+📫 Vamos construir um futuro mais inovador e inclusivo juntos! Entre em contato. 😊
+
+CLIQUE NA IMAGEM ABAIXO E VENHA JOGAR O JOGO DA VELHA! CHAME UM AMIGO PARA JOGAR COM VOCÊ 👵🏾
+
+<p align="center">
+    <a href="https://oldgame-beryl.vercel.app/" target="_blank">
+        <img src="https://store-images.s-microsoft.com/image/apps.51027.9007199266250076.9b89884f-348b-436b-aa04-a72ef0350004.65e2d419-13ef-4217-9db4-be954e2bc2b2?mode=scale&q=90&h=1080&w=1920" alt="Jogue o Jogo da Velha" style="border-radius: 10px; width: 500px; height: auto;">
+    </a>
+</p>
+
+
 
 
 
