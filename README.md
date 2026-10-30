@@ -1,4 +1,4 @@
- 
+
 <div align="center">
 
 # 👋 Hi, I'm Fabrícia de Souza!
@@ -39,7 +39,7 @@ I believe that consistency, curiosity and dedication are essential to growing as
 
 ### Currently Learning
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,vscode,git,github&theme=light" />
 </p>
 
@@ -60,11 +60,16 @@ I believe that consistency, curiosity and dedication are essential to growing as
 
 <div align="center">
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=vitroda&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vitroda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitroda&layout=compact&theme=tokyonight&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitroda&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=vitroda&theme=tokyonight&hide_border=true" />
 
 </div>
+
 ---
 
 ## 🎯 Goals
@@ -97,10 +102,6 @@ I'm always happy to connect with people who share an interest in technology, pro
 📍 Portugal 🇵🇹
 
 </div>
-
-
-
-
 
 
     
