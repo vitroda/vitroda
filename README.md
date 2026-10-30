@@ -55,20 +55,16 @@ I believe that consistency, curiosity and dedication are essential to growing as
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vitroda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=vitroda&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitroda&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=vitroda&theme=tokyonight&hide_border=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitroda&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
 ---
 
 ## 🎯 Goals
